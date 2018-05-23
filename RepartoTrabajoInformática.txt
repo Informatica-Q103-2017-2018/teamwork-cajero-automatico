@@ -1,0 +1,36 @@
+Reparto del trabajo "Cajero Automático" Q103.
+
+Realizado por Belén Espeso, Marta Romero, Ana Sánchez y Claudia Pagani.
+
+Siguiendo el orden del programa:
+
+- Estructura "transferencia": Claudia Pagani
+
+-Estructura "datos": Ana Sánchez
+
+- Estructura "recarga": Belén Espeso
+
+- Definición de las variables: la inicialización de cada variable ha sido realizada por la integrante a la que le correspondía el case en el que se usaba.
+
+-Bienvenida cliente: Ana Sánchez
+
+- Case 1 "consulta de datos" + inicialización "if-else": Ana Sánchez
+
+- Case 2 "transferencia": Claudia Pagani
+
+- Case 3: "cartilla": Belén Espeso + Claudia Pagani
+
+- Case 4 "recarga de móvil": Belén Espeso
+
+- Case 5 "retirar dinero": Marta Romero
+
+- Case 6 "ingresar dinero" + finalización "if-else": Marta Romero
+
+- Función "lectura de datos": Realizada por todas las integrantes del grupo.
+
+- Función "menu": Realizada por todas las integrantes del grupo al ser la función base de estructura general del trabajo.
+
+-Anotaciones del programa: Marta Romero + Ana Sánchez
+
+-Ficheros CLAVES.txt, SARA.txt, FERNANDO.txt, DOLORES.txt, JOSE.txt, MANUEL.tx: Realizados por todas las integrantes del grupo.
+
