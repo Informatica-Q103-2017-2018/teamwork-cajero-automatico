@@ -161,5 +161,6 @@ int menu(void)
 	printf("6 - Finalizar operacion\n");
 	printf ("Opcion: ");
 	scanf("%d", &opcion);
+	system("cls");
 	return opcion;
 }
